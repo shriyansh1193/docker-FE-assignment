@@ -1,11 +1,11 @@
-import CreateBookDetails from './component/CreateBookDetails';
+import BooksDetailsHome from './component/BooksDetailsHome';
 import Heading from './component/Heading';
 
 function App() {
   return (
     <div className="App">
       <Heading />
-      <CreateBookDetails />
+      <BooksDetailsHome />
     </div>
   );
 }

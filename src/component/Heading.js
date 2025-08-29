@@ -1,6 +1,4 @@
-import { Card, Stack } from "react-bootstrap";
-import Badge from "react-bootstrap/Badge";
-import Button from "react-bootstrap/Button";
+import { Card } from "react-bootstrap";
 
 function Heading() {
   return (
